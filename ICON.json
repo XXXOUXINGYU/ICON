@@ -1,6 +1,6 @@
 {
 	"name" : "YuIcon",
-	"ICONS" : [
+	"icons" : [
 		{"name" : "SSRDOG", "url" : "https://github.com/XXXOUXINGYU/ICON/blob/main/SSRDOG.png"},
 		{"name" : "CokeCloud", "url" : "https://github.com/XXXOUXINGYU/ICON/blob/main/CokeCloud.png"}	
 	]
