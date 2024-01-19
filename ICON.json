@@ -1,7 +1,7 @@
 {
 	"name" : "YuIcon",
 	"icons" : [
-		{"name" : "SSRDOG", "url" : "https://github.com/XXXOUXINGYU/ICON/blob/main/SSRDOG.png"},
+		{"name" : "SSRDOG", "url" : "https://raw.githubusercontent.com/XXXOUXINGYU/ICON/main/SSRDOG.png"},
 		{"name" : "CokeCloud", "url" : "https://github.com/XXXOUXINGYU/ICON/blob/main/CokeCloud.png"}	
 	]
 }
