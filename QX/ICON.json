@@ -1,6 +1,9 @@
 {
   "name" : "QXICONS",
   "icons" : [
-    {"name" : "QX.png", "url" : "https://raw.githubusercontent.com/XXXOUXINGYU/ICON/main/QX/NewCokeCloud.png"}
+    {"name" : "QX.png", "url" : "https://raw.githubusercontent.com/XXXOUXINGYU/ICON/main/QX/Quantumult_X.png"},
+    {"name" : "SSRDOG.png", "url" : "https://raw.githubusercontent.com/XXXOUXINGYU/ICON/main/QX/SSRDOG.png"},
+    {"name" : "COKECLOUD.png", "url" : "https://raw.githubusercontent.com/XXXOUXINGYU/ICON/main/QX/NewCokeCloud.png"},
+    {"name" : "MITIC.png", "url" : "https://raw.githubusercontent.com/XXXOUXINGYU/ICON/main/QX/MITCE.png"}
   ]
 }
